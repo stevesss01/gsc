@@ -1,0 +1,22 @@
+{
+  "name": "goog-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@ceramicnetwork/http-client": "^3.4.1",
+    "@ceramicnetwork/stream-tile": "^3.2.0",
+    "@ceramicstudio/idx": "^0.12.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.5",
+    "dids": "^5.0.3",
+    "ethers": "^6.13.5",
+    "key-did-provider-ed25519": "^4.0.2",
+    "key-did-resolver": "^4.0.0",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
